@@ -1,24 +1,9 @@
-# README
+# Mailing Service
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 1. Information
+...
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 2. Documentaion
+> - [x] [Notion](https://www.notion.so/Mailing-Service-26068813017d481c9318781e0ef115e0)
+> - [X] [Postman](https://documenter.getpostman.com/view/9957120/TzmBBtEc)
+> - [ ] [Swagger]()
