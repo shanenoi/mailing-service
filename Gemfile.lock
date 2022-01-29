@@ -107,9 +107,9 @@ GEM
     pg (1.2.3)
     pg (1.2.3-x64-mingw32)
     pg (1.2.3-x86-mingw32)
-    puma (5.4.0)
+    puma (5.5.1)
       nio4r (~> 2.0)
-    puma (5.4.0-java)
+    puma (5.5.1-java)
       nio4r (~> 2.0)
     racc (1.6.0)
     racc (1.6.0-java)
@@ -184,7 +184,7 @@ DEPENDENCIES
   byebug
   listen (~> 3.3)
   pg (~> 1.1)
-  puma (~> 5.0)
+  puma (~> 5.5)
   rails (~> 6.1.4)
   sidekiq
   spring
